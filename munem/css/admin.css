@@ -1,0 +1,73 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    background: #dcdcdc73;
+}
+h1 {
+    font-family: initial;
+    text-align: center;
+}
+.signupBox {
+    width: 224px;
+}
+.signupBox input {
+    padding: 5px 32px;
+    border-radius: 5px;
+    border: 1px solid #ff5200;
+}
+.inputClass {
+    background: #ddd;
+}
+.inputName {
+    margin-bottom: 13px;
+}
+.inputEmail {
+    margin-bottom: 13px;
+}
+.inputPassword {
+    margin-bottom: 13px;
+}
+.inputCountry {
+    margin-bottom: 13px;
+}
+.submitBtn {
+    margin-top: 35px;
+}
+input.btn.btn-primary {
+    width: 100px;
+    font-family: cursive;
+}
+.inputCity {
+    margin-bottom: 13px;
+}
+.popupMsz {
+    color: red;
+    text-align: center;
+    margin-top: 24px;
+    width: 300px;
+    margin-bottom: 9px;
+}
+.inputBox {
+    width: 300px;
+    background: #a9a9a926;
+    text-align: center;
+    padding: 6px 0px;
+    font-style: initial;
+    border: 2px solid #ff5200;
+    border-radius: 7px;
+}
+p.login {
+    text-align: center;
+    margin-top: 10px;
+}
+a {
+    font-family: cursive;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

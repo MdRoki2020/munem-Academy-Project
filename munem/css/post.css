@@ -1,0 +1,27 @@
+body {
+    background: #dcdcdc73;
+}
+.postHeading.text-center {
+    font-family: initial;
+}
+.singleBox {
+    margin-bottom: 25px;
+}
+.popupMsz {
+    color: green;
+    text-align: center;
+    margin-top: 24px;
+}
+.singleBox {
+    margin-bottom: 25px;
+    background: #a9a9a9a6;
+    padding: 10px 10px;
+    border: 2px solid #ff5200;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

@@ -1,0 +1,63 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+a {
+    font-family: cursive;
+}
+.cover {
+    background: url(https://wallpaperaccess.com/full/1393334.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.coverContains {
+    margin-left: 14px;
+    color: snow;
+    font-family: serif;
+    width: 323px;
+    text-align: inherit;
+    margin: auto;
+    padding: 126px 0px;
+}
+.cardSection {
+    margin-top: 25px;
+    background: #f5f6f6;
+}
+.containHeading {
+    font-family: initial;
+    margin-bottom: 20px;
+    padding: 32px 0px;
+    font-style: normal;
+}
+.row.secondRow {
+    margin-top: 15px;
+}
+
+.introVideo {
+    width: 253px;
+    margin: auto;
+}
+.aboutMe {
+    width: 303px;
+    margin-top: 49px;
+}
+.aboutMe h1 {
+    font-family: initial;
+}
+.aboutMe ul li {
+    line-height: 45px;
+}
+.footerSection {
+    background: darkgrey;
+    padding: 2px 0px;
+}
+.footerContain {
+    margin-top: 6px;
+    font-style: italic;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

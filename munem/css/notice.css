@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    background: #dcdcdc73;
+}
+a {
+    font-family: cursive;
+}
+.tableHeading {
+    text-align: center;
+    margin-bottom: 32px;
+    font-family: initial;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

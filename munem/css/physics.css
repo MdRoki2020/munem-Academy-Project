@@ -1,0 +1,7 @@
+body {
+    background: #f5f6f6;
+}
+.tableHeading.text-center {
+    margin-bottom: 25px;
+    font-family: initial;
+}
